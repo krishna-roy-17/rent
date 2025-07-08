@@ -145,7 +145,101 @@
         </div>
 
 
+        <!-- <div class="container">
+            <div class="col-md-10">
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="listproduct">
+                            <img src=".." class="listproduct-img-top" alt="..">
+                            <div class="product-body">
+                                <h5 class="listproduct-title">sprayers</h5>
+                                <p class="listproduct-text">$500/day</p>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="col-md-4"></div>
+                    <div class="col-md-4"></div>
+                </div>
+            </div>
+        </div> -->
+        <div class="container">
+            <!-- Product 1 -->
+            <div class="listproduct">
+                <div class="item">
+                    <img src="./image/products/Backpack_brush_cutter.jpg" class="listproduct-img-top" alt="Backpack brush cutter">
+                    <h5 class="listproduct-title">Backpack brush cutter</h5>
+                    <div class="price">$500/day</div>
+                </div>
+            </div>
+
+            <!-- Product 2 -->
+                <div class="listproduct">
+                    <div class="item">
+                        <img src="./image/products/combine.jpg" class="listproduct-img-top" alt="Combine">
+                        <h5 class="listproduct-title">combine</h5>
+                        <div class="price">$800/day</div>
+                    </div>          
+                </div>
+
+            <!-- Product 3 -->
+                <div class="listproduct">
+                    <div class="item">
+                        <img src="./image/products/trash_pump.jpg" class="listproduct-img-top" alt="Trash pump">
+                        <h5 class="listproduct-title">Trash Pump</h5>
+                        <div class="price">$1200/day</div>
+                    </div>
+                </div>
+
+            <!-- Product 4 -->
+            
+                <div class="listproduct">
+                    <div class="item">
+                        <img src="./image/products/tractor_mounted_auger.jpg" class="listproduct-img-top" alt="Tractor Mounted Auger">
+                        <h5 class="listproduct-title">Tractor Mounted Auger</h5>
+                        <div class="price">$1500/day</div>
+                    </div>
+                </div>
+
+            <!--product 5-->
+
+            <div class="listproduct">
+                    <div class="item">
+                        <img src="./image/products/surge_ protector_and_voltage_stabilisers.jpg" class="listproduct-img-top" alt="Surge Protecter and voltage Stabilisers">
+                        <h5 class="listproduct-title">Voltage Stabilisers</h5>
+                        <div class="price">$500/day</div>
+                    </div>
+                </div>
+
+            <!--product 6-->
+
+            <div class="listproduct">
+                    <div class="item">
+                        <img src="./image/products/chainsaw.png" class="listproduct-img-top" alt="chainsaw">
+                        <h5 class="listproduct-title">Chainsaw</h5>
+                        <div class="price">$100/day</div>
+                    </div>
+                </div>
+
+            <!--product 7-->
+
+            <div class="listproduct">
+                    <div class="item">
+                        <img src="./image/products/grain_dryer.jpg" class="listproduct-img-top" alt="grain dryer">
+                        <h5 class="listproduct-title">Grain Dryer</h5>
+                        <div class="price">$1200/day</div>
+                    </div>
+                </div>
+            <!--product 8-->
+
+            <div class="listproduct">
+                    <div class="item">
+                        <img src="./image/products/shovel.avif" class="listproduct-img-top" alt="shovel">
+                        <h5 class="listproduct-title">shovel</h5>
+                        <div class="price">$90</div>
+                    </div>
+                </div>
 
 
-
+        </div>
     </section>  
